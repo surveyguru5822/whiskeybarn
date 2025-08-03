@@ -1,0 +1,2978 @@
+[
+  {
+    "Name": "13th Colony Cask Strength Bourbon",
+    "Variety": "bourbon",
+    "Proof": 121.1,
+    "Rarity": "rare",
+    "Distillery": "Thirteenth Colony Distilleries",
+    "MSRP": 89.99
+  },
+  {
+    "Name": "13th Colony Southern Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 95,
+    "Rarity": "uncommon",
+    "Distillery": "Thirteenth Colony Distilleries",
+    "MSRP": 45
+  },
+  {
+    "Name": "1792 Bottled In Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "1792 Barton",
+    "MSRP": 51.99
+  },
+  {
+    "Name": "1792 Full Proof",
+    "Variety": "bourbon",
+    "Proof": 125,
+    "Rarity": "uncommon",
+    "Distillery": "1792 Barton",
+    "MSRP": 24.99
+  },
+  {
+    "Name": "1792 Small Batch Sazerac Barrel Select Luckys Liquor Kentucky Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 93.7,
+    "Rarity": "common",
+    "Distillery": "1792 Barton",
+    "MSRP": 45
+  },
+  {
+    "Name": "1792 Sweet Wheat",
+    "Variety": "bourbon",
+    "Proof": 91.2,
+    "Rarity": "rare",
+    "Distillery": "1792 Barton",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Alberta Premium Cask Strength Rye",
+    "Variety": "canadian",
+    "Proof": 130.2,
+    "Rarity": "common",
+    "Distillery": "Alberta Distillers",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "ASW Fiddler Toasted Straight Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 101.4,
+    "Rarity": "uncommon",
+    "Distillery": "ASW Distillery",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Baker's 13 Year Kentucky Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 107,
+    "Rarity": "rare",
+    "Distillery": "Jim Beam",
+    "MSRP": 149.99
+  },
+  {
+    "Name": "Baker's 7 Year Single Barrel Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 107,
+    "Rarity": "Common",
+    "Distillery": "Jim Beam",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Bakerâ€™s 7 Year Small Batch Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 107,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Baker's High Rye Bourbon",
+    "Variety": "bourbon",
+    "Proof": 107,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Balcones Baby Blue Corn Whisky",
+    "Variety": "corn",
+    "Proof": 92,
+    "Rarity": "uncommon",
+    "Distillery": "Balcones Distilling",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Balcones True Blue 100 Proof Straight Corn Whisky",
+    "Variety": "corn",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Balcones Distilling",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Balcones True Blue Cask Strength",
+    "Variety": "corn",
+    "Proof": 125.8,
+    "Rarity": "uncommon",
+    "Distillery": "Balcones Distilling",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Balcones True Blue Cask Strength",
+    "Variety": "corn",
+    "Proof": 125.8,
+    "Rarity": "uncommon",
+    "Distillery": "Balcones Distilling",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Bardstown Bottled In Bond Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Bardstown Bourbon Co. Chateau de Laubaude Collaboration Bourbon",
+    "Variety": "bourbon",
+    "Proof": 107,
+    "Rarity": "uncommon",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 179.99
+  },
+  {
+    "Name": "Bardstown Bourbon Co. Discovery Series #11",
+    "Variety": "bourbon",
+    "Proof": 118.1,
+    "Rarity": "uncommon",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 139.99
+  },
+  {
+    "Name": "Bardstown Bourbon Co. Discovery Series #11",
+    "Variety": "bourbon",
+    "Proof": 118.1,
+    "Rarity": "uncommon",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 139.99
+  },
+  {
+    "Name": "Bardstown Bourbon Co. Discovery Series #2",
+    "Variety": "bourbon",
+    "Proof": 122.2,
+    "Rarity": "rare",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 119.99
+  },
+  {
+    "Name": "Bardstown Bourbon Co. Discovery Series #2",
+    "Variety": "bourbon",
+    "Proof": 122.2,
+    "Rarity": "rare",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 119.99
+  },
+  {
+    "Name": "Bardstown Bourbon Co. Discovery Series #2",
+    "Variety": "bourbon",
+    "Proof": 122.2,
+    "Rarity": "rare",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 119.99
+  },
+  {
+    "Name": "Bardstown Bourbon Co. Discovery Series #8",
+    "Variety": "Blended Whiskey",
+    "Proof": 114.1,
+    "Rarity": "uncommon",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 139.99
+  },
+  {
+    "Name": "Bardstown Bourbon Company Discovery Series 12",
+    "Variety": "bourbon",
+    "Proof": 115.2,
+    "Rarity": "uncommon",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 139.99
+  },
+  {
+    "Name": "Bardstown Four Square Collab",
+    "Variety": "blended american whiskey",
+    "Proof": 107,
+    "Rarity": "uncommon",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 159.99
+  },
+  {
+    "Name": "Bardstown Origin Series Ky Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 96,
+    "Rarity": "common",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 45.99
+  },
+  {
+    "Name": "Bardstown Origin Series Ky Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 96,
+    "Rarity": "common",
+    "Distillery": "Bardstown Bourbon Company",
+    "MSRP": 45.99
+  },
+  {
+    "Name": "Barrell Craft Spirits Cask Strength Batch 33",
+    "Variety": "blended grain",
+    "Proof": 116.6,
+    "Rarity": "uncommon",
+    "Distillery": "Barrell Craft Spirits",
+    "MSRP": 88.99
+  },
+  {
+    "Name": "Barrell Craft Spirits Foundation Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Barrell Craft Spirits",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Barrell Craft Spirits Seagrass",
+    "Variety": "rye",
+    "Proof": 120.2,
+    "Rarity": "common",
+    "Distillery": "Barrell Craft Spirits",
+    "MSRP": 84.99
+  },
+  {
+    "Name": "Barrell Craft Spirits Vantage",
+    "Variety": "bourbon",
+    "Proof": 114.44,
+    "Rarity": "common",
+    "Distillery": "Barrell Craft Spirits",
+    "MSRP": 84.99
+  },
+  {
+    "Name": "Belfour Texas Pecan Wood Finished Bourbon",
+    "Variety": "bourbon",
+    "Proof": 92,
+    "Rarity": "uncommon",
+    "Distillery": "Belfour Spirits",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Benchmark Bonded",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 19.99
+  },
+  {
+    "Name": "Benchmark Full Proof",
+    "Variety": "bourbon",
+    "Proof": 125,
+    "Rarity": "common",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 22.99
+  },
+  {
+    "Name": "Benchmark No 8",
+    "Variety": "bourbon",
+    "Proof": 80,
+    "Rarity": "common",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 23.99
+  },
+  {
+    "Name": "Ben Holladay One Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Holladay Bourbon",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Ben Holladay Soft Red Wheat Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Holladay Bourbon",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Ben Holladay Soft Red Wheat Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Holladay Bourbon",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Ben Holladay Soft Red Wheat Rickhouse Proof",
+    "Variety": "bourbon",
+    "Proof": 120,
+    "Rarity": "uncommon",
+    "Distillery": "Holladay Bourbon",
+    "MSRP": 74.98
+  },
+  {
+    "Name": "Bernheim Wheat Barrel Proof",
+    "Variety": "wheat whiskey",
+    "Proof": 118.8,
+    "Rarity": "Uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Black Band Bourbon",
+    "Variety": "bourbon",
+    "Proof": 92,
+    "Rarity": "uncommon",
+    "Distillery": "BLACK BAND Distillery",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Blanton's Gold",
+    "Variety": "bourbon",
+    "Proof": 103,
+    "Rarity": "Rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 149.99
+  },
+  {
+    "Name": "Blanton's Green Label Special Reserve Bourbon",
+    "Variety": "bourbon",
+    "Proof": 80,
+    "Rarity": "unicorn",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Blanton's Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 93,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Blanton's Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 93,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Blanton's Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 93,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Blanton's Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 93,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Blanton's Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 93,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Blanton's Straight From The Barrel",
+    "Variety": "bourbon",
+    "Proof": 130.3,
+    "Rarity": "Rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 159.99
+  },
+  {
+    "Name": "Blue Note Premium Small Batch Bourbon",
+    "Variety": "bourbon",
+    "Proof": 93,
+    "Rarity": "common",
+    "Distillery": "B.R. Distilling Company",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Blue Note Premium Small Batch Bourbon",
+    "Variety": "bourbon",
+    "Proof": 93,
+    "Rarity": "common",
+    "Distillery": "B.R. Distilling Company",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Blue Note Uncut Juke Joint",
+    "Variety": "bourbon",
+    "Proof": 121.9,
+    "Rarity": "common",
+    "Distillery": "B.R. Distilling Company",
+    "MSRP": 51.99
+  },
+  {
+    "Name": "Blue Run Golden Rye",
+    "Variety": "rye",
+    "Proof": 95,
+    "Rarity": "uncommon",
+    "Distillery": "Blue Run Spirits",
+    "MSRP": 109.98
+  },
+  {
+    "Name": "Bomberger Straight Bourbon 2024",
+    "Variety": "bourbon",
+    "Proof": 108,
+    "Rarity": "rare",
+    "Distillery": "Michter's",
+    "MSRP": 109.99
+  },
+  {
+    "Name": "Bomberger Straight Bourbon 2024",
+    "Variety": "bourbon",
+    "Proof": 108,
+    "Rarity": "rare",
+    "Distillery": "Michter's",
+    "MSRP": 109.99
+  },
+  {
+    "Name": "Bomberger Straight Bourbon 2024",
+    "Variety": "bourbon",
+    "Proof": 108,
+    "Rarity": "rare",
+    "Distillery": "Michter's",
+    "MSRP": 109.99
+  },
+  {
+    "Name": "Booker's 2022-03 Kentucky Tea Batch",
+    "Variety": "bourbon",
+    "Proof": 126.5,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 89.99
+  },
+  {
+    "Name": "Booker's 2022-03 Kentucky Tea Batch",
+    "Variety": "bourbon",
+    "Proof": 126.5,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 89.99
+  },
+  {
+    "Name": "Booker's 2023-01 Charlie's Batch",
+    "Variety": "bourbon",
+    "Proof": 126.6,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 89.99
+  },
+  {
+    "Name": "Booker's 2023-03 Mighty Fine Batch",
+    "Variety": "bourbon",
+    "Proof": 126.6,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 89.99
+  },
+  {
+    "Name": "Booker's Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 94.99
+  },
+  {
+    "Name": "Booker's Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 94.99
+  },
+  {
+    "Name": "Boulder Bourbon Sherry Cask Finished",
+    "Variety": "bourbon",
+    "Proof": 94,
+    "Rarity": "uncommon",
+    "Distillery": "Boulder Spirits",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Boulder Spirits Bourbon Bottled in Bond Store Pick",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Boulder Spirits",
+    "MSRP": 65
+  },
+  {
+    "Name": "Boulder Spirits Cask Strength Bourbon",
+    "Variety": "bourbon",
+    "Proof": 132,
+    "Rarity": "uncommon",
+    "Distillery": "Boulder Spirits",
+    "MSRP": 65
+  },
+  {
+    "Name": "Boulder Spirits Cask Strength Bourbon",
+    "Variety": "bourbon",
+    "Proof": 132,
+    "Rarity": "uncommon",
+    "Distillery": "Boulder Spirits",
+    "MSRP": 65
+  },
+  {
+    "Name": "Boulder Spirits Peated Single Malt",
+    "Variety": "peated single malt",
+    "Proof": 92,
+    "Rarity": "common",
+    "Distillery": "Boulder Spirits",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Bowman Brothers Small Batch",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "A. Smith Bowman Distillery",
+    "MSRP": 32.99
+  },
+  {
+    "Name": "Bowman Brothers Small Batch",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "A. Smith Bowman Distillery",
+    "MSRP": 32.99
+  },
+  {
+    "Name": "Bowman Brothers Small Batch",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "A. Smith Bowman Distillery",
+    "MSRP": 32.99
+  },
+  {
+    "Name": "Breckenridge High Proof Blend",
+    "Variety": "blended",
+    "Proof": 105,
+    "Rarity": "common",
+    "Distillery": "Breckenridge Distillery",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Breckenridge Reserve Blended Bourbon",
+    "Variety": "bourbon",
+    "Proof": 86,
+    "Rarity": "common",
+    "Distillery": "Breckenridge Distillery",
+    "MSRP": 35.99
+  },
+  {
+    "Name": "Buffalo Trace Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 35
+  },
+  {
+    "Name": "Buffalo Trace Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 35
+  },
+  {
+    "Name": "Buffalo Trace Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 35
+  },
+  {
+    "Name": "Buffalo Trace Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 35
+  },
+  {
+    "Name": "Buffalo Trace Kentucky Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 25
+  },
+  {
+    "Name": "Buffalo Trace Kosher Rye Recipe Bourbon",
+    "Variety": "bourbon",
+    "Proof": 94,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 44.99
+  },
+  {
+    "Name": "Buffalo Trace Kosher Wheated",
+    "Variety": "bourbon",
+    "Proof": 94,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 44.99
+  },
+  {
+    "Name": "Bulleit Bourbon 10 Year",
+    "Variety": "bourbon",
+    "Proof": 91.2,
+    "Rarity": "common",
+    "Distillery": "Bulleit Frontier Whiskey",
+    "MSRP": 47.99
+  },
+  {
+    "Name": "Bulleit Rye 12 Year",
+    "Variety": "rye",
+    "Proof": 92,
+    "Rarity": "Uncommon",
+    "Distillery": "Bulleit Frontier Whiskey",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Bulleit Rye 12 Year",
+    "Variety": "rye",
+    "Proof": 92,
+    "Rarity": "Uncommon",
+    "Distillery": "Bulleit Frontier Whiskey",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Calumet Farm 8 Year Old",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Calumet Farm",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Caribou Crossing Single Barrel Canadian Whisky",
+    "Variety": "canadian",
+    "Proof": 80,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Caribou Crossing Single Barrel Canadian Whisky",
+    "Variety": "canadian",
+    "Proof": 80,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Chattanooga Whiskey Bourbon 91",
+    "Variety": "bourbon",
+    "Proof": 91,
+    "Rarity": "common",
+    "Distillery": "Chattanooga Whiskey Company",
+    "MSRP": 34.99
+  },
+  {
+    "Name": "Chattanooga Whiskey Experimental Single Batch 39 Harvest Bourbon",
+    "Variety": "bourbon",
+    "Proof": 115,
+    "Rarity": "common",
+    "Distillery": "Chattanooga Whiskey Company",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Barrel Proof",
+    "Variety": "bourbon",
+    "Proof": 129,
+    "Rarity": "unicorn",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Barrel Proof",
+    "Variety": "bourbon",
+    "Proof": 129.7,
+    "Rarity": "unicorn",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Barrel Proof",
+    "Variety": "bourbon",
+    "Proof": 131.1,
+    "Rarity": "unicorn",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Small Batch",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Small Batch",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Small Batch",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Small Batch",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Colonel E.H. Taylor Straight Rye",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Coopers' Craft Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 82.2,
+    "Rarity": "common",
+    "Distillery": "Coopers' Craft",
+    "MSRP": 24.99
+  },
+  {
+    "Name": "Copper Sky Light Whiskey",
+    "Variety": "whiskey",
+    "Proof": 133.5,
+    "Rarity": "uncommon",
+    "Distillery": "Copper Sky Distillery",
+    "MSRP": 109.99
+  },
+  {
+    "Name": "Copper Sky Wheated Whiskey",
+    "Variety": "whiskey",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Copper Sky Distillery",
+    "MSRP": 50
+  },
+  {
+    "Name": "Cream of Kentucky Bottled in Bond Rye",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "J.W. Rutledge Distillery",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Dexter Three Wood",
+    "Variety": "bourbon",
+    "Proof": 100.6,
+    "Rarity": "uncommon",
+    "Distillery": "Brain Brew Custom Whiskey",
+    "MSRP": 48.99
+  },
+  {
+    "Name": "Doc Swinson's Exploratory Cask Garryana Oak Finish Bourbon",
+    "Variety": "bourbon",
+    "Proof": 108.8,
+    "Rarity": "uncommon",
+    "Distillery": "Distiller's Way",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Eagle Rare 10 Year",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 42.99
+  },
+  {
+    "Name": "Eagle Rare 10 Year",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 42.99
+  },
+  {
+    "Name": "Eagle Rare 10 Year",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 42.99
+  },
+  {
+    "Name": "Early Times Bottled In Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "1792 Barton",
+    "MSRP": 25.49
+  },
+  {
+    "Name": "Early Times Bottled In Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "1792 Barton",
+    "MSRP": 25.49
+  },
+  {
+    "Name": "Early Times Bottled In Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "1792 Barton",
+    "MSRP": 25.49
+  },
+  {
+    "Name": "Early Times Bottled In Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "1792 Barton",
+    "MSRP": 25.49
+  },
+  {
+    "Name": "Elijah Craig 18 Year",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "rare",
+    "Distillery": "Heaven Hill",
+    "MSRP": 169.99
+  },
+  {
+    "Name": "Elijah Craig 9 Year Private Barrel Kentucky Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 94,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Elijah Craig Barrel Proof C923",
+    "Variety": "bourbon",
+    "Proof": 133,
+    "Rarity": "rare",
+    "Distillery": "Heaven Hill",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Elijah Craig Barrel Proof Private Barrel",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Elijah Craig Barrel Proof Private Barrel",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Elijah Craig Barrel Proof Private Barrel",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Elijah Craig Barrel Proof Private Barrel",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Elijah Craig Toasted Barrel",
+    "Variety": "bourbon",
+    "Proof": 94,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Elmer T. Lee Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Elmer T. Lee Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Elmer T. Lee Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Elmer T. Lee Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Evan Williams Bottled In Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Heaven Hill",
+    "MSRP": 19.99
+  },
+  {
+    "Name": "Evan Williams Bottled In Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Heaven Hill",
+    "MSRP": 19.99
+  },
+  {
+    "Name": "Evan Williams Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 86.6,
+    "Rarity": "Uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 35.99
+  },
+  {
+    "Name": "Evan Williams Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 86.6,
+    "Rarity": "Uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 35.99
+  },
+  {
+    "Name": "Evan Williams Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 86.6,
+    "Rarity": "Uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 35.99
+  },
+  {
+    "Name": "Ezra Brooks Cask Strength Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 120,
+    "Rarity": "common",
+    "Distillery": "Lux Row Distillers",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Far North Spirits Oklon Single Varietal Rye Whiskey Cask Strength",
+    "Variety": "rye",
+    "Proof": 116.8,
+    "Rarity": "uncommon",
+    "Distillery": "Far North Spirits",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Few Cold Cut Bourbon",
+    "Variety": "flavored",
+    "Proof": 93,
+    "Rarity": "common",
+    "Distillery": "Few Spirits",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Found North Cask Strength Whisky Batch 006",
+    "Variety": "canadian",
+    "Proof": 128.2,
+    "Rarity": "uncommon",
+    "Distillery": "Found North",
+    "MSRP": 139.99
+  },
+  {
+    "Name": "Found North Cask Strength Whisky Batch 011",
+    "Variety": "whiskey",
+    "Proof": 129.8,
+    "Rarity": "Rare",
+    "Distillery": "Found North",
+    "MSRP": 179.99
+  },
+  {
+    "Name": "Foundry Sinister Malt Whiskey",
+    "Variety": "whiskey",
+    "Proof": 94.6,
+    "Rarity": "uncommon",
+    "Distillery": "Foundry Distilling Co",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Four Gate Batch 28 The Kelvin Collaboration V Bourbon",
+    "Variety": "bourbon",
+    "Proof": 117,
+    "Rarity": "common",
+    "Distillery": "Four Gate Whiskey Company",
+    "MSRP": 199.99
+  },
+  {
+    "Name": "Four Gate Batch 28 The Kelvin Collaboration V Bourbon",
+    "Variety": "bourbon",
+    "Proof": 117,
+    "Rarity": "common",
+    "Distillery": "Four Gate Whiskey Company",
+    "MSRP": 199.99
+  },
+  {
+    "Name": "Four Roses Private Selection Single Barrel Strength Kentucky Straight Bourbon Whiskey OESO Selected By Total Wine And More",
+    "Variety": "bourbon",
+    "Proof": 106,
+    "Rarity": "common",
+    "Distillery": "Four Roses",
+    "MSRP": 120
+  },
+  {
+    "Name": "Four Roses Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Four Roses",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Four Roses Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Four Roses",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Four Roses Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Four Roses",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Four Roses Single Barrel OBSF Recipe Kentucky Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Four Roses",
+    "MSRP": 45.99
+  },
+  {
+    "Name": "Four Roses Single Barrel Recipe OESK Kentucky Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Four Roses",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Four Roses Small Batch 2022 Release Barrel Strength",
+    "Variety": "bourbon",
+    "Proof": 109,
+    "Rarity": "unicorn",
+    "Distillery": "Four Roses",
+    "MSRP": 169.99
+  },
+  {
+    "Name": "Four Roses Small Batch Select Bourbon",
+    "Variety": "bourbon",
+    "Proof": 104,
+    "Rarity": "common",
+    "Distillery": "Four Roses",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Four Roses Small Batch Select Bourbon",
+    "Variety": "bourbon",
+    "Proof": 104,
+    "Rarity": "common",
+    "Distillery": "Four Roses",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Frank August Small Batch Kentucky Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Frank August Distillery",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Frey Ranch Bottled In Bond Straight Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Frey Ranch",
+    "MSRP": 62.99
+  },
+  {
+    "Name": "Garrison Brothers Balmorhea Bourbon",
+    "Variety": "bourbon",
+    "Proof": 115,
+    "Rarity": "uncommon",
+    "Distillery": "Garrison Brothers Distillery",
+    "MSRP": 199.99
+  },
+  {
+    "Name": "George Remus Single Barrel Cask Strength",
+    "Variety": "bourbon",
+    "Proof": 114.2,
+    "Rarity": "uncommon",
+    "Distillery": "Ross and Squibb Distillery",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "George T. Stagg",
+    "Variety": "bourbon",
+    "Proof": 130.4,
+    "Rarity": "unicorn",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Grand Teton Private Stock Bourbon 8 Years Old",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Grand Teton Distillery",
+    "MSRP": 80
+  },
+  {
+    "Name": "Green River Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Green River Distilling/Owensboro Distilling Co",
+    "MSRP": 34.99
+  },
+  {
+    "Name": "Green River Bourbon Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Green River Distilling/Owensboro Distilling Co",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Green River Rye",
+    "Variety": "rye",
+    "Proof": 95,
+    "Rarity": "common",
+    "Distillery": "Green River Distilling/Owensboro Distilling Co",
+    "MSRP": 34.99
+  },
+  {
+    "Name": "Green River Rye",
+    "Variety": "rye",
+    "Proof": 95,
+    "Rarity": "common",
+    "Distillery": "Green River Distilling/Owensboro Distilling Co",
+    "MSRP": 34.99
+  },
+  {
+    "Name": "Hancock Single Barrel President's Reserve",
+    "Variety": "bourbon",
+    "Proof": 88.9,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Hancock Single Barrel President's Reserve",
+    "Variety": "bourbon",
+    "Proof": 88.9,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Hard Truth High Road Rye",
+    "Variety": "rye",
+    "Proof": 93,
+    "Rarity": "common",
+    "Distillery": "Hard Truth Distilling Co.",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Heaven Hill Grain To Glass Straight Bourbon Whiskey",
+    "Variety": "",
+    "Proof": 105,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 90
+  },
+  {
+    "Name": "Heaven Hill Grain to Glass Wheated Bourbon",
+    "Variety": "wheat whiskey",
+    "Proof": 121,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 99.95
+  },
+  {
+    "Name": "Heaven Hill Select Stock Finished in Armagnac Barrels",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Heaven Hill",
+    "MSRP": 150
+  },
+  {
+    "Name": "Henry Mckenna 10 Year Bottled-In-Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Henry Mckenna 10 Year Bottled-In-Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Herman Marshall Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 92,
+    "Rarity": "uncommon",
+    "Distillery": "Herman Marshall Whiskey",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Herman Marshall Texas Bourbon",
+    "Variety": "bourbon",
+    "Proof": 92,
+    "Rarity": "uncommon",
+    "Distillery": "Herman Marshall Whiskey",
+    "MSRP": 37.99
+  },
+  {
+    "Name": "High West Bourye Limited Sighting Blended Straight Rye & Bourbon Whiskey",
+    "Variety": "blended grain",
+    "Proof": 91,
+    "Rarity": "uncommon",
+    "Distillery": "High West Distillery",
+    "MSRP": 124.99
+  },
+  {
+    "Name": "High West Rendezvous Rye",
+    "Variety": "rye",
+    "Proof": 92,
+    "Rarity": "common",
+    "Distillery": "High West Distillery",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Hogback Oak & Aspen Bourbon Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 88,
+    "Rarity": "uncommon",
+    "Distillery": "Hogback Distillery",
+    "MSRP": 71.99
+  },
+  {
+    "Name": "Isaac Bowman Port Barrel Finished",
+    "Variety": "bourbon",
+    "Proof": 92,
+    "Rarity": "common",
+    "Distillery": "A. Smith Bowman Distillery",
+    "MSRP": 42.99
+  },
+  {
+    "Name": "Jack Daniel's 10 Year",
+    "Variety": "tennessee whiskey",
+    "Proof": 97,
+    "Rarity": "rare",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Jack Daniel's 10 Year",
+    "Variety": "tennessee whiskey",
+    "Proof": 97,
+    "Rarity": "rare",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Jack Daniel's 10 Year",
+    "Variety": "tennessee whiskey",
+    "Proof": 97,
+    "Rarity": "rare",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Jack Daniel's 12 Year",
+    "Variety": "tennessee whiskey",
+    "Proof": 107,
+    "Rarity": "rare",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Jack Daniel's 12 Year",
+    "Variety": "tennessee whiskey",
+    "Proof": 107,
+    "Rarity": "rare",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Jack Daniel's 12 Year",
+    "Variety": "tennessee whiskey",
+    "Proof": 107,
+    "Rarity": "rare",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Jack Daniel's Bonded Rye",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 35
+  },
+  {
+    "Name": "Jack Daniel's Coy Hill Barrelhouse 8",
+    "Variety": "tennessee whiskey",
+    "Proof": 0,
+    "Rarity": "unicorn",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 84.99
+  },
+  {
+    "Name": "Jack Daniel's Coy Hill Barrelhouse 8",
+    "Variety": "tennessee whiskey",
+    "Proof": 0,
+    "Rarity": "unicorn",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 84.99
+  },
+  {
+    "Name": "Jack Danielâ€™s Distillery Series #008 â€¦",
+    "Variety": "rye",
+    "Proof": 101,
+    "Rarity": "uncommon",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 41.99
+  },
+  {
+    "Name": "Jack Daniel's Distillery Series #012 Straight Tennessee Whiskey Finished in Oloroso Sherry Casks",
+    "Variety": "tennessee whiskey",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 41.99
+  },
+  {
+    "Name": "Jack Daniel's Single Barrel Barrel Proof",
+    "Variety": "tennessee whiskey",
+    "Proof": 0,
+    "Rarity": "common",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Jack Daniel's Single Barrel Personal Collection",
+    "Variety": "tennessee whiskey",
+    "Proof": 94,
+    "Rarity": "common",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 51.99
+  },
+  {
+    "Name": "Jack Daniel's Single Barrel Rye Barrel Proof",
+    "Variety": "rye",
+    "Proof": 130,
+    "Rarity": "common",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Jack Daniel's Twice Barreled Heritage Rye",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Jack Daniel's Twice Barreled Heritage Rye",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Jack Daniel's",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Jim Beam Black 7 Year Kentucky Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 26.99
+  },
+  {
+    "Name": "Jim Beam Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 108,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 29.99
+  },
+  {
+    "Name": "John J Bowman Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "A. Smith Bowman Distillery",
+    "MSRP": 56.99
+  },
+  {
+    "Name": "J.T. Meleck American Rice Whiskey",
+    "Variety": "whiskey",
+    "Proof": 96,
+    "Rarity": "uncommon",
+    "Distillery": "J.T. Meleck Distillers",
+    "MSRP": 45
+  },
+  {
+    "Name": "J.T. Meleck Single Barrel Cask Strength American Rice Whiskey",
+    "Variety": "whiskey",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "J.T. Meleck Distillers",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Kirkland Bottled In Bond Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "1792 Barton",
+    "MSRP": 23.99
+  },
+  {
+    "Name": "Kirkland Signature Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 120,
+    "Rarity": "uncommon",
+    "Distillery": "1792 Barton",
+    "MSRP": 29.99
+  },
+  {
+    "Name": "Knob Creek 12 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Knob Creek 12 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Knob Creek 18 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Jim Beam",
+    "MSRP": 179.99
+  },
+  {
+    "Name": "Knob Creek Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 38.99
+  },
+  {
+    "Name": "Knob Creek Cask Strength Straight Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "Unicorn",
+    "Distillery": "Jim Beam",
+    "MSRP": 44.99
+  },
+  {
+    "Name": "Knob Creek Cask Strength Straight Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "Unicorn",
+    "Distillery": "Jim Beam",
+    "MSRP": 44.99
+  },
+  {
+    "Name": "Knob Creek Rye 10 Year",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Jim Beam",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Knob Creek Single Barrel Select Bourbon",
+    "Variety": "bourbon",
+    "Proof": 120,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Knob Creek Single Barrel Select Bourbon",
+    "Variety": "bourbon",
+    "Proof": 120,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Knob Creek Single Barrel Select Bourbon",
+    "Variety": "bourbon",
+    "Proof": 120,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Knob Creek Single Barrel Select Rye",
+    "Variety": "rye",
+    "Proof": 115,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 55
+  },
+  {
+    "Name": "Larceny Barrel Proof A123",
+    "Variety": "bourbon",
+    "Proof": 125.8,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Larceny Barrel Proof B522",
+    "Variety": "bourbon",
+    "Proof": 123.8,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Larceny Barrel Proof Bottled By SGregg Kentucky Straight Bourbon Whisky Batch No.1922",
+    "Variety": "",
+    "Proof": 129.8,
+    "Rarity": "common",
+    "Distillery": "Heaven Hill",
+    "MSRP": 100
+  },
+  {
+    "Name": "Larceny Barrel Proof C922",
+    "Variety": "bourbon",
+    "Proof": 126.6,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Leiper's Fork Bottled in Bond Tennessee Whiskey",
+    "Variety": "tennessee whiskey",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Leiper's Fork Distillery",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Leopold Bros Maryland Style Rye",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Leopold Bros",
+    "MSRP": 47.99
+  },
+  {
+    "Name": "Maker's Mark 46 French Oaked Bourbon",
+    "Variety": "bourbon",
+    "Proof": 94,
+    "Rarity": "common",
+    "Distillery": "Maker's Mark",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Makerâ€™s Mark Cask Strength Batch 21-03",
+    "Variety": "Whiskey",
+    "Proof": 109.6,
+    "Rarity": "common",
+    "Distillery": "Maker's Mark",
+    "MSRP": 55
+  },
+  {
+    "Name": "Maker's Mark Cellar Aged 2023",
+    "Variety": "bourbon",
+    "Proof": 115.7,
+    "Rarity": "unicorn",
+    "Distillery": "Maker's Mark",
+    "MSRP": 149.99
+  },
+  {
+    "Name": "Maker's Mark Cellar Aged 2023",
+    "Variety": "bourbon",
+    "Proof": 115.7,
+    "Rarity": "unicorn",
+    "Distillery": "Maker's Mark",
+    "MSRP": 149.99
+  },
+  {
+    "Name": "Makers Mark Private Selection Hand Selected",
+    "Variety": "",
+    "Proof": 0,
+    "Rarity": "common",
+    "Distillery": "Maker's Mark",
+    "MSRP": 80
+  },
+  {
+    "Name": "Maker's Mark Wood Finishing Series",
+    "Variety": "bourbon",
+    "Proof": 109.4,
+    "Rarity": "uncommon",
+    "Distillery": "Maker's Mark",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Maker's Mark Wood Finishing Series BEP",
+    "Variety": "bourbon",
+    "Proof": 110.7,
+    "Rarity": "rare",
+    "Distillery": "Maker's Mark",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Maker's Mark Wood Finishing Series BEP",
+    "Variety": "bourbon",
+    "Proof": 110.7,
+    "Rarity": "rare",
+    "Distillery": "Maker's Mark",
+    "MSRP": 74.99
+  },
+  {
+    "Name": "Mars Iwai Whisky",
+    "Variety": "japanese whisky",
+    "Proof": 80,
+    "Rarity": "common",
+    "Distillery": "Mars Shinshu Distillery",
+    "MSRP": 34.99
+  },
+  {
+    "Name": "MB Roland Uncut & Unfiltered Kentucky Straight Corn Whiskey",
+    "Variety": "corn",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "MB Roland Distillery",
+    "MSRP": 45.95
+  },
+  {
+    "Name": "Michter's 10 Year Kentucky Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 94.4,
+    "Rarity": "unicorn",
+    "Distillery": "Michter's",
+    "MSRP": 174.99
+  },
+  {
+    "Name": "Michter's Limited Release Barrel Strength Kentucky Straight Rye Whiskey 2025",
+    "Variety": "",
+    "Proof": 110.8,
+    "Rarity": "Uncommon",
+    "Distillery": "Michter's",
+    "MSRP": 129
+  },
+  {
+    "Name": "Michter's Limited Release Barrel Strength Kentucky Straight Rye Whiskey 2025",
+    "Variety": "",
+    "Proof": 110.8,
+    "Rarity": "Uncommon",
+    "Distillery": "Michter's",
+    "MSRP": 129
+  },
+  {
+    "Name": "Michter's Limited Release Barrel Strength Kentucky Straight Rye Whiskey 2025",
+    "Variety": "",
+    "Proof": 110.8,
+    "Rarity": "Uncommon",
+    "Distillery": "Michter's",
+    "MSRP": 129
+  },
+  {
+    "Name": "Michter's Limited Release Barrel Strength Kentucky Straight Rye Whiskey 2025",
+    "Variety": "",
+    "Proof": 110.8,
+    "Rarity": "Uncommon",
+    "Distillery": "Michter's",
+    "MSRP": 129
+  },
+  {
+    "Name": "Michter's Rye 10 Year",
+    "Variety": "rye",
+    "Proof": 92.8,
+    "Rarity": "unicorn",
+    "Distillery": "Michter's",
+    "MSRP": 199.99
+  },
+  {
+    "Name": "Michter's Small Batch Bourbon",
+    "Variety": "bourbon",
+    "Proof": 91.4,
+    "Rarity": "common",
+    "Distillery": "Michter's",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Michter's Small Batch Bourbon",
+    "Variety": "bourbon",
+    "Proof": 91.4,
+    "Rarity": "common",
+    "Distillery": "Michter's",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Michter's Small Batch Bourbon",
+    "Variety": "bourbon",
+    "Proof": 91.4,
+    "Rarity": "common",
+    "Distillery": "Michter's",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Michter's Small Batch Sour Mash",
+    "Variety": "whiskey",
+    "Proof": 86,
+    "Rarity": "common",
+    "Distillery": "Michter's",
+    "MSRP": 44.99
+  },
+  {
+    "Name": "Michter's Straight Rye",
+    "Variety": "rye",
+    "Proof": 84.8,
+    "Rarity": "common",
+    "Distillery": "Michter's",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Michter's Unblended American Whiskey",
+    "Variety": "whiskey",
+    "Proof": 83.4,
+    "Rarity": "common",
+    "Distillery": "Michter's",
+    "MSRP": 44.99
+  },
+  {
+    "Name": "Middle West Spirits Ported Pumpernickel Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 99.5,
+    "Rarity": "common",
+    "Distillery": "Middle West Spirits",
+    "MSRP": 90.99
+  },
+  {
+    "Name": "Mystic Mountain Outlaw Legend Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 96,
+    "Rarity": "uncommon",
+    "Distillery": "Mystic Mountain Distillery",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Mythology Hell Bear Rye + Bourbon",
+    "Variety": "american whiskey",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Mythology Distillery",
+    "MSRP": 59
+  },
+  {
+    "Name": "Nashville Barrel Company 6 Year Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Nashville Barrel Company",
+    "MSRP": 89.99
+  },
+  {
+    "Name": "Nashville Barrel Small Batch Cask Strength Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "common",
+    "Distillery": "Nashville Barrel Company",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "New Riff Single Barrel Rye",
+    "Variety": "rye",
+    "Proof": 0,
+    "Rarity": "common",
+    "Distillery": "New Riff",
+    "MSRP": 57.99
+  },
+  {
+    "Name": "Nulu Reserve Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Prohibition Craft Spirits (Nulu)",
+    "MSRP": 67.99
+  },
+  {
+    "Name": "Old Carter Barrel Strength Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "rare",
+    "Distillery": "Old Carter Whiskey Co.",
+    "MSRP": 149.99
+  },
+  {
+    "Name": "Old Elk Double Wheat",
+    "Variety": "blended whisky",
+    "Proof": 107.1,
+    "Rarity": "uncommon",
+    "Distillery": "Old Elk",
+    "MSRP": 89.99
+  },
+  {
+    "Name": "old elk single barrel straight rye whiskey",
+    "Variety": "rye",
+    "Proof": 121.6,
+    "Rarity": "uncommon",
+    "Distillery": "Old Elk",
+    "MSRP": 35.99
+  },
+  {
+    "Name": "Old Fitzgerald 10 Year Bottled In Bond Decanter",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "unicorn",
+    "Distillery": "Heaven Hill",
+    "MSRP": 139.98
+  },
+  {
+    "Name": "Old Fitzgerald 15 Year Bottled in Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "unicorn",
+    "Distillery": "Heaven Hill",
+    "MSRP": 150
+  },
+  {
+    "Name": "Old Fitzgerald 7 Year Bottled in Bond",
+    "Variety": "",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Heaven Hill",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Old Fitzgerald 8 Year Bottled In Bond (Fall)",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Heaven Hill",
+    "MSRP": 129.99
+  },
+  {
+    "Name": "Old Forester 1910 Old Fine Bourbon",
+    "Variety": "bourbon",
+    "Proof": 93,
+    "Rarity": "common",
+    "Distillery": "Old Forester",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Old Forester 1920 Prohibition Style",
+    "Variety": "bourbon",
+    "Proof": 115,
+    "Rarity": "common",
+    "Distillery": "Old Forester",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Old Forester Kentucky Straight Rye Whisky",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Old Forester",
+    "MSRP": 23.99
+  },
+  {
+    "Name": "Old Forester Kentucky Straight Rye Whisky",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Old Forester",
+    "MSRP": 23.99
+  },
+  {
+    "Name": "Old Forester King Ranch",
+    "Variety": "bourbon",
+    "Proof": 105,
+    "Rarity": "uncommon",
+    "Distillery": "Old Forester",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Old Forester Single Barrel Barrel Strength",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "rare",
+    "Distillery": "Old Forester",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Old Forester Single Barrel Rye Barrel Proof",
+    "Variety": "rye",
+    "Proof": 0,
+    "Rarity": "rare",
+    "Distillery": "Old Forester",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Old Forester Whiskey Row Series: 1897 Bottled In B",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Old Forester",
+    "MSRP": 9.99
+  },
+  {
+    "Name": "Old Grand Dad 114",
+    "Variety": "bourbon",
+    "Proof": 114,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 32.99
+  },
+  {
+    "Name": "Old Grand Dad 114",
+    "Variety": "bourbon",
+    "Proof": 114,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 32.99
+  },
+  {
+    "Name": "Old Grand Dad Bonded",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 24.99
+  },
+  {
+    "Name": "Old Overholt 10 Year Cask Strength Limited Release Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 121,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 99.95
+  },
+  {
+    "Name": "Old Overholt Bonded Straight Rye",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Jim Beam",
+    "MSRP": 27.99
+  },
+  {
+    "Name": "Old Pepper Bottled in Bond Rye",
+    "Variety": "rye",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "James E Pepper Distilling Co",
+    "MSRP": 84.99
+  },
+  {
+    "Name": "Oppidan Smoke + Sea Bourbon",
+    "Variety": "bourbon",
+    "Proof": 92,
+    "Rarity": "uncommon",
+    "Distillery": "Oppidan Spirits",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Parker's Heritage Colleciton 17 Th Ed 10 Yr Rye",
+    "Variety": "rye",
+    "Proof": 128.8,
+    "Rarity": "unicorn",
+    "Distillery": "Heaven Hill",
+    "MSRP": 184.98
+  },
+  {
+    "Name": "Paul John Nirvana Indian Single Malt Whisky",
+    "Variety": "single malt",
+    "Proof": 80,
+    "Rarity": "common",
+    "Distillery": "Paul John Whiskey",
+    "MSRP": 29.99
+  },
+  {
+    "Name": "Paul Sutton Bottle in Bond Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Paul Sutton Bourbon",
+    "MSRP": 67
+  },
+  {
+    "Name": "Peerless Small Batch Bourbon",
+    "Variety": "bourbon",
+    "Proof": 110.7,
+    "Rarity": "common",
+    "Distillery": "Peerless Distilling Co.",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Pendleton 20 Year Director's Reserve 2018",
+    "Variety": "whiskey",
+    "Proof": 80,
+    "Rarity": "uncommon",
+    "Distillery": "Pendleton Whiskey",
+    "MSRP": 202.99
+  },
+  {
+    "Name": "Pendleton Whisky",
+    "Variety": "canadian",
+    "Proof": 80,
+    "Rarity": "common",
+    "Distillery": "Pendleton Whiskey",
+    "MSRP": 23.99
+  },
+  {
+    "Name": "Penelope Barrel Strength 9 Year",
+    "Variety": "bourbon",
+    "Proof": 109,
+    "Rarity": "common",
+    "Distillery": "Penelope",
+    "MSRP": 61.99
+  },
+  {
+    "Name": "Penelope Barrel Strength 9 Year",
+    "Variety": "bourbon",
+    "Proof": 109,
+    "Rarity": "common",
+    "Distillery": "Penelope",
+    "MSRP": 61.99
+  },
+  {
+    "Name": "Penelope Cigar Sessions",
+    "Variety": "",
+    "Proof": 101,
+    "Rarity": "Rare",
+    "Distillery": "Penelope",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Penelope Estate Collection 10 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "rare",
+    "Distillery": "Penelope",
+    "MSRP": 100
+  },
+  {
+    "Name": "Penelope Wheated Bourbon",
+    "Variety": "bourbon",
+    "Proof": 95,
+    "Rarity": "common",
+    "Distillery": "Penelope",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Pursuit United Cognac Cask Rye Blended Straight Rye Whiskey",
+    "Variety": "",
+    "Proof": 108,
+    "Rarity": "uncommon",
+    "Distillery": "Pursuit Spirits",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Pursuit United Double Oaked Bourbon",
+    "Variety": "bourbon",
+    "Proof": 108,
+    "Rarity": "common",
+    "Distillery": "Pursuit Spirits",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Pursuit United Double Oaked Bourbon",
+    "Variety": "bourbon",
+    "Proof": 108,
+    "Rarity": "common",
+    "Distillery": "Pursuit Spirits",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Pursuit United Double Oaked Rye",
+    "Variety": "rye",
+    "Proof": 108,
+    "Rarity": "common",
+    "Distillery": "Pursuit Spirits",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Pursuit United Triple Mash Bourbon Barrel Proof",
+    "Variety": "bourbon",
+    "Proof": 119.8,
+    "Rarity": "uncommon",
+    "Distillery": "Pursuit Spirits",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Rare Character Single Barrel Series 9 Year Old Selected By Hazel's Bevarage World Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 112.4,
+    "Rarity": "common",
+    "Distillery": "Rare Character",
+    "MSRP": 110
+  },
+  {
+    "Name": "Rare Character Single Barrel Series Kentucky Straight Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Rare Character",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "RD1 Bourbon Double Finished in Oak and Maple Barrels",
+    "Variety": "bourbon",
+    "Proof": 99.9,
+    "Rarity": "uncommon",
+    "Distillery": "RD1 Spirits",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Rebel 10 Year Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Lux Row Distillers",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Rebel Distiller's Collection",
+    "Variety": "bourbon",
+    "Proof": 113,
+    "Rarity": "Uncommon",
+    "Distillery": "Lux Row Distillers",
+    "MSRP": 31.49
+  },
+  {
+    "Name": "Redemption 9 Year Barrel Proof Bourbon",
+    "Variety": "bourbon",
+    "Proof": 108.2,
+    "Rarity": "uncommon",
+    "Distillery": "Redemption Whiskey",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Rock Hill Farms Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 83.99
+  },
+  {
+    "Name": "Russell's Reserve 10 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Russell's Reserve 13 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 114.8,
+    "Rarity": "rare",
+    "Distillery": "Wild Turkey",
+    "MSRP": 149.99
+  },
+  {
+    "Name": "Russell's Reserve 13 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 114.8,
+    "Rarity": "rare",
+    "Distillery": "Wild Turkey",
+    "MSRP": 149.99
+  },
+  {
+    "Name": "Russell's Reserve 13 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 114.8,
+    "Rarity": "rare",
+    "Distillery": "Wild Turkey",
+    "MSRP": 149.99
+  },
+  {
+    "Name": "Russell's Reserve 15 Year Bourbon",
+    "Variety": "bourbon",
+    "Proof": 117.2,
+    "Rarity": "unicorn",
+    "Distillery": "Wild Turkey",
+    "MSRP": 249.99
+  },
+  {
+    "Name": "Russell's Reserve 6 Year Rye",
+    "Variety": "rye",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Russell's Reserve Single Barrel Private Selection Barrel",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Wild Turkey",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Sagamore Double Oak",
+    "Variety": "rye",
+    "Proof": 96.6,
+    "Rarity": "common",
+    "Distillery": "Sagamore Spirits",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Sam Houston 15 Year Bourbon",
+    "Variety": "blended",
+    "Proof": 103,
+    "Rarity": "uncommon",
+    "Distillery": "Sam Houston Bourbon Whiskey",
+    "MSRP": 139.99
+  },
+  {
+    "Name": "Sazerac 100 Proof Straight Rye Whiskey",
+    "Variety": "",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 35.99
+  },
+  {
+    "Name": "Sazerac Rye",
+    "Variety": "rye",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 51.99
+  },
+  {
+    "Name": "Sazerac Rye",
+    "Variety": "rye",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 51.99
+  },
+  {
+    "Name": "Shenk's Homestead Small Batch Kentucky Sour Mash Whiskey 2023",
+    "Variety": "whiskey",
+    "Proof": 91.2,
+    "Rarity": "common",
+    "Distillery": "Michter's",
+    "MSRP": 100
+  },
+  {
+    "Name": "Shenk's Homestead Small Batch Kentucky Sour Mash Whiskey 2023",
+    "Variety": "whiskey",
+    "Proof": 91.2,
+    "Rarity": "common",
+    "Distillery": "Michter's",
+    "MSRP": 100
+  },
+  {
+    "Name": "Shenk's Sour Mash Whiskey",
+    "Variety": "whiskey",
+    "Proof": 91.2,
+    "Rarity": "rare",
+    "Distillery": "Michter's",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Single Barrel",
+    "Variety": "blended whiskey",
+    "Proof": 118,
+    "Rarity": "rare",
+    "Distillery": "Mythology Distillery",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Smoke Wagon Rye Private Barrel",
+    "Variety": "rye",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Nevada H&C Distilling Co",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Smoke Wagon Straight Whiskey Bourbon",
+    "Variety": "bourbon",
+    "Proof": 92.5,
+    "Rarity": "common",
+    "Distillery": "Nevada H&C Distilling Co",
+    "MSRP": 29.99
+  },
+  {
+    "Name": "Smokeye Hill Barrel Proof Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 131.2,
+    "Rarity": "Uncommon",
+    "Distillery": "Hazelwood Spirits Co.",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Smokeye Hill Barrel Proof Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 131.2,
+    "Rarity": "Uncommon",
+    "Distillery": "Hazelwood Spirits Co.",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Smokeye Hill Barrel Proof Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 131.2,
+    "Rarity": "Uncommon",
+    "Distillery": "Hazelwood Spirits Co.",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Smooth Ambler Old Scout Rye Port Barrel Finish",
+    "Variety": "rye",
+    "Proof": 103,
+    "Rarity": "common",
+    "Distillery": "Smooth Ambler",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Stagg Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Stagg Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Stagg Batch #22A",
+    "Variety": "bourbon",
+    "Proof": 132.2,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Stagg Batch #22A",
+    "Variety": "bourbon",
+    "Proof": 132.2,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Stagg Batch #22B",
+    "Variety": "bourbon",
+    "Proof": 130,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Stagg Batch #23A",
+    "Variety": "bourbon",
+    "Proof": 130.2,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Stagg Batch #23A",
+    "Variety": "bourbon",
+    "Proof": 130.2,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Stagg Batch #23C",
+    "Variety": "bourbon",
+    "Proof": 125.9,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Stagg Batch #23C",
+    "Variety": "bourbon",
+    "Proof": 125.9,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Stagg Batch #24B",
+    "Variety": "bourbon",
+    "Proof": 127.8,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Star Hill Farm American Wheat Whisky",
+    "Variety": "",
+    "Proof": 114.7,
+    "Rarity": "Rare",
+    "Distillery": "Maker's Mark",
+    "MSRP": 100
+  },
+  {
+    "Name": "Starlight Carl. T Huberâ€™s Old Rickhouse Double Oaked Rye",
+    "Variety": "rye",
+    "Proof": 106,
+    "Rarity": "common",
+    "Distillery": "Starlight Distillery",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Stellum Bourbon Cask Strength",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "common",
+    "Distillery": "Stellum Spirits",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Stellum Single Barrel Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "common",
+    "Distillery": "Stellum Spirits",
+    "MSRP": 54.99
+  },
+  {
+    "Name": "Still Austin Bottled In Bond Red Corn Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "rare",
+    "Distillery": "Still Austin",
+    "MSRP": 79.99
+  },
+  {
+    "Name": "Still Austin Cask Strength Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 118,
+    "Rarity": "common",
+    "Distillery": "Still Austin",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Still Austin Cask Strength Rye Whiskey",
+    "Variety": "bourbon",
+    "Proof": 116,
+    "Rarity": "uncommon",
+    "Distillery": "Still Austin",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Still Austin Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 98.4,
+    "Rarity": "common",
+    "Distillery": "Still Austin",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Sweetens Cove Kennessee Bourbon",
+    "Variety": "bourbon",
+    "Proof": 110.7,
+    "Rarity": "common",
+    "Distillery": "Sweetens Cove Spirits",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Talnua Single Pot Still Virgin White Oak Cask",
+    "Variety": "american whiskey",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Talnua Distillery",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Templeton Rye 6 Year Rye",
+    "Variety": "rye",
+    "Proof": 91.5,
+    "Rarity": "common",
+    "Distillery": "Templeton Distillery",
+    "MSRP": 41.99
+  },
+  {
+    "Name": "The Prideful Goat Straight Rye",
+    "Variety": "rye",
+    "Proof": 114.2,
+    "Rarity": "uncommon",
+    "Distillery": "The Prideful Goat Distillery",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Thomas H. Handy",
+    "Variety": "rye",
+    "Proof": 130.9,
+    "Rarity": "unicorn",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 149.98
+  },
+  {
+    "Name": "Tincup 10 Year",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Tincup Whiskey",
+    "MSRP": 48.99
+  },
+  {
+    "Name": "Traveller Whiskey",
+    "Variety": "whiskey",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 39.99
+  },
+  {
+    "Name": "Tx Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Firestone & Robertson Distilling Co.",
+    "MSRP": 34.99
+  },
+  {
+    "Name": "Tx Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Firestone & Robertson Distilling Co.",
+    "MSRP": 34.99
+  },
+  {
+    "Name": "Uncle Nearest 1856 Premium Aged Whiskey",
+    "Variety": "whiskey",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Uncle Nearest Premium Whiskey",
+    "MSRP": 56.99
+  },
+  {
+    "Name": "Vertical Series Bourbon 9 Year 2024 Store Pick",
+    "Variety": "bourbon",
+    "Proof": 116.8,
+    "Rarity": "common",
+    "Distillery": "Pinhook Bourbon",
+    "MSRP": 99.99
+  },
+  {
+    "Name": "Weller 12 Year",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 42.99
+  },
+  {
+    "Name": "Weller 12 Year",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 42.99
+  },
+  {
+    "Name": "Weller Antique",
+    "Variety": "bourbon",
+    "Proof": 107,
+    "Rarity": "rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 58.99
+  },
+  {
+    "Name": "Weller C.Y.P.B.",
+    "Variety": "bourbon",
+    "Proof": 95,
+    "Rarity": "unicorn",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Weller Full Proof",
+    "Variety": "bourbon",
+    "Proof": 114,
+    "Rarity": "Rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Weller Full Proof",
+    "Variety": "bourbon",
+    "Proof": 114,
+    "Rarity": "Rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Weller Full Proof Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 114,
+    "Rarity": "Rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 66.99
+  },
+  {
+    "Name": "Weller Full Proof Barrel Select",
+    "Variety": "bourbon",
+    "Proof": 114,
+    "Rarity": "Rare",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 66.99
+  },
+  {
+    "Name": "Weller Full Proof Sazerac Barrel Selection Party Source Wine Beer Liquor Wheated Kentucky Straight Bourbon Whiskey",
+    "Variety": "",
+    "Proof": 114,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 90
+  },
+  {
+    "Name": "Weller Special Reserve",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 57.99
+  },
+  {
+    "Name": "Weller Special Reserve",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 57.99
+  },
+  {
+    "Name": "Weller Special Reserve",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 15.99
+  },
+  {
+    "Name": "Weller Special Reserve",
+    "Variety": "bourbon",
+    "Proof": 90,
+    "Rarity": "uncommon",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 57.99
+  },
+  {
+    "Name": "Wilderness Trail Wheated Bourbon Bottled In Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Wilderness Trail Distillery",
+    "MSRP": 47.99
+  },
+  {
+    "Name": "Wild Turkey 101",
+    "Variety": "bourbon",
+    "Proof": 101,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 22.99
+  },
+  {
+    "Name": "Wild Turkey 101 8 Year Old Kentucky Straight Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 101,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 37
+  },
+  {
+    "Name": "Wild Turkey Bourbon",
+    "Variety": "bourbon",
+    "Proof": 81,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 43.99
+  },
+  {
+    "Name": "Wild Turkey Jimmy Russell's 70th Anniversary 8 Year",
+    "Variety": "bourbon",
+    "Proof": 101,
+    "Rarity": "uncommon",
+    "Distillery": "Wild Turkey",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Wild Turkey Jimmy Russell's 70th Anniversary 8 Year",
+    "Variety": "bourbon",
+    "Proof": 101,
+    "Rarity": "uncommon",
+    "Distillery": "Wild Turkey",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Wild Turkey Kentucky Spirit Single Barrel",
+    "Variety": "bourbon",
+    "Proof": 101,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Wild Turkey Longbranch",
+    "Variety": "bourbon",
+    "Proof": 86,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 34.99
+  },
+  {
+    "Name": "Wild Turkey Rare Breed",
+    "Variety": "bourbon",
+    "Proof": 116.8,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Wild Turkey Rare Breed Non Chill Filtered",
+    "Variety": "bourbon",
+    "Proof": 116.8,
+    "Rarity": "uncommon",
+    "Distillery": "Wild Turkey",
+    "MSRP": 65
+  },
+  {
+    "Name": "Wild Turkey Rare Breed Rye",
+    "Variety": "rye",
+    "Proof": 112.2,
+    "Rarity": "common",
+    "Distillery": "Wild Turkey",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Willett Family Estate Bottled 4 Year Rye",
+    "Variety": "rye",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Willett Distillery",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "William Larue Weller",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "unicorn",
+    "Distillery": "Buffalo Trace",
+    "MSRP": 124.99
+  },
+  {
+    "Name": "Woodford Reserve Rare Release Double XO Blend",
+    "Variety": "bourbon",
+    "Proof": 90.4,
+    "Rarity": "rare",
+    "Distillery": "Woodford Reserve",
+    "MSRP": 150
+  },
+  {
+    "Name": "Woodford Reserve Wheat Whiskey",
+    "Variety": "wheat whiskey",
+    "Proof": 90.4,
+    "Rarity": "common",
+    "Distillery": "Woodford Reserve",
+    "MSRP": 36.99
+  },
+  {
+    "Name": "Wood Hat Bourbon Rubenesque Bottled in Bond",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "uncommon",
+    "Distillery": "Wood Hat Spirits",
+    "MSRP": 49.99
+  },
+  {
+    "Name": "Woodinville Single Barrel Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Woodinville Whiskey Company",
+    "MSRP": 91.99
+  },
+  {
+    "Name": "Woodinville Whiskey Straight Rye",
+    "Variety": "rye",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Woodinville Whiskey Company",
+    "MSRP": 44.99
+  },
+  {
+    "Name": "Woody Creek Distillers Single Barrel Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Woody Creek Distillers",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Woody Creek Distillers Single Barrel Rye Whiskey",
+    "Variety": "rye",
+    "Proof": 90,
+    "Rarity": "common",
+    "Distillery": "Woody Creek Distillers",
+    "MSRP": 69.99
+  },
+  {
+    "Name": "Woody Creek Single Barrel Colorado Straight Bourbon",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "uncommon",
+    "Distillery": "Woody Creek Distillers",
+    "MSRP": 59.99
+  },
+  {
+    "Name": "Yamazaki 12 Year Old Single Malt Japanese Whisky",
+    "Variety": "japanese whisky",
+    "Proof": 86,
+    "Rarity": "uncommon",
+    "Distillery": "Suntory Whisky",
+    "MSRP": 199.99
+  },
+  {
+    "Name": "Yellow Rose Outlaw Bourbon Whiskey",
+    "Variety": "bourbon",
+    "Proof": 92,
+    "Rarity": "uncommon",
+    "Distillery": "Yellow Rose Distilling",
+    "MSRP": 26.99
+  },
+  {
+    "Name": "Yellowstone Hand Picked Collection",
+    "Variety": "bourbon",
+    "Proof": 0,
+    "Rarity": "common",
+    "Distillery": "Limestone Branch",
+    "MSRP": 64.99
+  },
+  {
+    "Name": "Yellowstone Toasted Bourbon",
+    "Variety": "bourbon",
+    "Proof": 100,
+    "Rarity": "common",
+    "Distillery": "Limestone Branch",
+    "MSRP": 49.99
+  }
+]
